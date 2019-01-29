@@ -1,0 +1,19 @@
+.container{
+	background-color: red;
+	border: 1px solid;
+	min-height: 100px;
+}
+.bg{
+min-height: 70px;
+background-color: green;
+border: 1px solid;
+
+}
+.bgc{
+	min-height: 70px;
+	background-color: blue;
+	border: 1px solid;
+}
+.c_mb{
+	margin: 10px 0;
+}
